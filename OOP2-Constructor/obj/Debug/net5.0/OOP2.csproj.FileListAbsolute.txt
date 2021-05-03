@@ -1,0 +1,16 @@
+C:\Users\Administrator\source\repos\OOP\OOP2-Constructor\bin\Debug\net5.0\OOP2.exe
+C:\Users\Administrator\source\repos\OOP\OOP2-Constructor\bin\Debug\net5.0\OOP2.deps.json
+C:\Users\Administrator\source\repos\OOP\OOP2-Constructor\bin\Debug\net5.0\OOP2.runtimeconfig.json
+C:\Users\Administrator\source\repos\OOP\OOP2-Constructor\bin\Debug\net5.0\OOP2.runtimeconfig.dev.json
+C:\Users\Administrator\source\repos\OOP\OOP2-Constructor\bin\Debug\net5.0\OOP2.dll
+C:\Users\Administrator\source\repos\OOP\OOP2-Constructor\bin\Debug\net5.0\ref\OOP2.dll
+C:\Users\Administrator\source\repos\OOP\OOP2-Constructor\bin\Debug\net5.0\OOP2.pdb
+C:\Users\Administrator\source\repos\OOP\OOP2-Constructor\obj\Debug\net5.0\OOP2.csprojAssemblyReference.cache
+C:\Users\Administrator\source\repos\OOP\OOP2-Constructor\obj\Debug\net5.0\OOP2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\source\repos\OOP\OOP2-Constructor\obj\Debug\net5.0\OOP2.AssemblyInfoInputs.cache
+C:\Users\Administrator\source\repos\OOP\OOP2-Constructor\obj\Debug\net5.0\OOP2.AssemblyInfo.cs
+C:\Users\Administrator\source\repos\OOP\OOP2-Constructor\obj\Debug\net5.0\OOP2.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\OOP\OOP2-Constructor\obj\Debug\net5.0\OOP2.dll
+C:\Users\Administrator\source\repos\OOP\OOP2-Constructor\obj\Debug\net5.0\ref\OOP2.dll
+C:\Users\Administrator\source\repos\OOP\OOP2-Constructor\obj\Debug\net5.0\OOP2.pdb
+C:\Users\Administrator\source\repos\OOP\OOP2-Constructor\obj\Debug\net5.0\OOP2.genruntimeconfig.cache
